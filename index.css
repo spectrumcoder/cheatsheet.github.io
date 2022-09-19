@@ -1,0 +1,52 @@
+* {
+    font-family: 'Source Code Pro';
+}
+
+nav {
+    background-color: darkblue;
+    color: white;
+    font-size: 30px;
+    text-align: left; 
+    height: 100px;
+    line-height: 100px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    background-color: lightslategray;
+    color: darkblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#html {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 24px;
+}
+
+h3{
+    font-size: 32px;
+}
+
+table, th, td {
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: auto; 
+}
